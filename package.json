@@ -1,0 +1,14 @@
+{
+    "name": "versionskontrolle-tools",
+    "version": "1.0.0",
+    "description": "Sammlung nützlicher Werkzeuge zur Verbesserung der Arbeit mit Versionskontrollsystemen.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/benutzername/versionskontrolle-tools.git"
+    },
+    "license": "MIT"
+}
