@@ -1,7 +1,7 @@
 {
     "name": "versionskontrolle-tools",
     "version": "1.0.0",
-    "description": "Sammlung nützlicher Werkzeuge zur Verbesserung der Arbeit mit Versionskontrollsystemen.",
+    "description": "Collection of useful tools to improve work with version control systems.",
     "main": "index.js",
     "scripts": {
         "start": "node index.js"
