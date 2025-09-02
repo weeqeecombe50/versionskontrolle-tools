@@ -1,4 +1,4 @@
-# Mitwirkungsrichtlinien
+# Mitwirkungsrichtlinien für Beiträge
 
 Vielen Dank, dass Sie sich für eine Mitwirkung an den Versionskontrolle-Tools interessieren! Bitte folgen Sie den folgenden Richtlinien, um einen reibungslosen Beitrag zu gewährleisten.
 
