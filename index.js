@@ -3,7 +3,7 @@ const path = require('path');
 
 // Hauptfunktionalität der Versionskontrolle-Tools
 function main() {
-    console.log('Willkommen zu den Versionskontrolle-Tools! Nutzen Sie diese Tools zur einfachen Verwaltung Ihrer Code-Versionen.');
+    console.log('Willkommen zu den Versionskontrollwerkzeugen! Nutzen Sie diese Werkzeuge zur einfachen Verwaltung Ihrer Code-Versionen.');
     // Hier können weitere Funktionen integriert werden.
 }
 
